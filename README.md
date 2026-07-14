@@ -85,7 +85,7 @@ Excel-From-Beginner-to-Advanced/
 
 ## Author
 
-**Vish**
-Data Science | Machine Learning | Excel | Python | SQL
+**Vishvi**
+Data Scientist | AI Engineer | Content Writer 
 
 GitHub: https://github.com/vishvi31
